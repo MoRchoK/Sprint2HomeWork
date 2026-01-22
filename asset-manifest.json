@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sprint2HomeWork/static/css/main.dae6ad47.css",
-    "main.js": "/Sprint2HomeWork/static/js/main.2cb2b59c.js",
-    "static/js/472.8e5d7411.chunk.js": "/Sprint2HomeWork/static/js/472.8e5d7411.chunk.js",
+    "main.css": "/Sprint2HomeWork/static/css/main.309bb978.css",
+    "main.js": "/Sprint2HomeWork/static/js/main.52fe5440.js",
+    "static/js/787.66cb4309.chunk.js": "/Sprint2HomeWork/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Sprint2HomeWork/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/Sprint2HomeWork/index.html",
-    "main.dae6ad47.css.map": "/Sprint2HomeWork/static/css/main.dae6ad47.css.map",
-    "main.2cb2b59c.js.map": "/Sprint2HomeWork/static/js/main.2cb2b59c.js.map",
-    "472.8e5d7411.chunk.js.map": "/Sprint2HomeWork/static/js/472.8e5d7411.chunk.js.map"
+    "main.309bb978.css.map": "/Sprint2HomeWork/static/css/main.309bb978.css.map",
+    "main.52fe5440.js.map": "/Sprint2HomeWork/static/js/main.52fe5440.js.map",
+    "787.66cb4309.chunk.js.map": "/Sprint2HomeWork/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dae6ad47.css",
-    "static/js/main.2cb2b59c.js"
+    "static/css/main.309bb978.css",
+    "static/js/main.52fe5440.js"
   ]
 }
