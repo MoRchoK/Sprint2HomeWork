@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Sprint2HomeWork/static/css/main.309bb978.css",
-    "main.js": "/Sprint2HomeWork/static/js/main.f8eefacf.js",
+    "main.css": "/Sprint2HomeWork/static/css/main.faa2eceb.css",
+    "main.js": "/Sprint2HomeWork/static/js/main.42c0c21d.js",
     "static/js/787.66cb4309.chunk.js": "/Sprint2HomeWork/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Sprint2HomeWork/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/Sprint2HomeWork/index.html",
-    "main.309bb978.css.map": "/Sprint2HomeWork/static/css/main.309bb978.css.map",
-    "main.f8eefacf.js.map": "/Sprint2HomeWork/static/js/main.f8eefacf.js.map",
+    "main.faa2eceb.css.map": "/Sprint2HomeWork/static/css/main.faa2eceb.css.map",
+    "main.42c0c21d.js.map": "/Sprint2HomeWork/static/js/main.42c0c21d.js.map",
     "787.66cb4309.chunk.js.map": "/Sprint2HomeWork/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.309bb978.css",
-    "static/js/main.f8eefacf.js"
+    "static/css/main.faa2eceb.css",
+    "static/js/main.42c0c21d.js"
   ]
 }
