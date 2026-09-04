@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/Sprint2HomeWork/static/css/main.e2db7ab7.css",
-    "main.js": "/Sprint2HomeWork/static/js/main.bfa75702.js",
+    "main.js": "/Sprint2HomeWork/static/js/main.9dd92418.js",
     "static/js/787.66cb4309.chunk.js": "/Sprint2HomeWork/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/Sprint2HomeWork/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/200.svg": "/Sprint2HomeWork/static/media/200.2b4de1542921864a6ecb8c3301ea4670.svg",
+    "static/media/error.svg": "/Sprint2HomeWork/static/media/error.9a99652a785b87f2f448e23e5da3045d.svg",
+    "static/media/500.svg": "/Sprint2HomeWork/static/media/500.65355d1617c6a93fc93572680052f0b7.svg",
+    "static/media/400.svg": "/Sprint2HomeWork/static/media/400.4e46e304dcfdcae89fcfb902d8863816.svg",
     "static/media/404.svg": "/Sprint2HomeWork/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
     "static/media/closeOutline.svg": "/Sprint2HomeWork/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
     "index.html": "/Sprint2HomeWork/index.html",
     "static/media/checked.svg": "/Sprint2HomeWork/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "static/media/burger.svg": "/Sprint2HomeWork/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
     "main.e2db7ab7.css.map": "/Sprint2HomeWork/static/css/main.e2db7ab7.css.map",
-    "main.bfa75702.js.map": "/Sprint2HomeWork/static/js/main.bfa75702.js.map",
+    "main.9dd92418.js.map": "/Sprint2HomeWork/static/js/main.9dd92418.js.map",
     "787.66cb4309.chunk.js.map": "/Sprint2HomeWork/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2db7ab7.css",
-    "static/js/main.bfa75702.js"
+    "static/js/main.9dd92418.js"
   ]
 }
